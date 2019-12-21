@@ -106,7 +106,6 @@ C:\Users\Jack\source\repos\HD_Decisions_Case_Study\bin\Debug\netcoreapp3.1\tr\Mi
 C:\Users\Jack\source\repos\HD_Decisions_Case_Study\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Jack\source\repos\HD_Decisions_Case_Study\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Jack\source\repos\HD_Decisions_Case_Study\obj\Debug\netcoreapp3.1\Razor\Views\Form\Index.cshtml.g.cs
-C:\Users\Jack\source\repos\HD_Decisions_Case_Study\obj\Debug\netcoreapp3.1\Razor\Views\Form\name.cshtml.g.cs
 C:\Users\Jack\source\repos\HD_Decisions_Case_Study\obj\Debug\netcoreapp3.1\HD_Decisions_Case_Study.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\sanderja\source\repos\HD_Decisions_Case_Study\obj\Debug\netcoreapp3.1\HD_Decisions_Case_Study.csprojAssemblyReference.cache
 C:\Users\sanderja\source\repos\HD_Decisions_Case_Study\obj\Debug\netcoreapp3.1\staticwebassets\HD_Decisions_Case_Study.StaticWebAssets.Manifest.cache
