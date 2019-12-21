@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+    <script type="text/javascript">
+        $(function () { // will trigger when the document is ready
+            $('.datepicker').datepicker(); //Initialise any date pickers
+        });
+    </script>
+<h2>Credit Solution Finder</h2>
+
+<p>Please fill out the form below in order to find the best solution for you:</p>
+
+<h4>Full Name</h4>
+@model FormData
+
+@Html.TextBox("Name", null, new { @class = "form-control" })
+
+<h4>Annual Income (Pre-Tax)</h4>
+
+@Html.TextBox("AnnualIncome", null, new { @class = "form-control" })
+
+<h4>Date of Birth. Please note there are no cards available for anyone under the age of 18.</h4>
+<div class="form-group input-group-sm">
+   
+    @Html.TextBoxFor(model => model.DateOfBirth, new { @class = "form-control datepicker", placeholder = "DD/MM/YYYY" })
+    @Html.ValidationMessageFor(model => model.DateOfBirth)
+</div>
+
+
+
